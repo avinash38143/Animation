@@ -1,5 +1,5 @@
 # Animation
-##Solar System Animation
+## Solar System Animation
 This project is a simple HTML and CSS animation that depicts a basic representation of the solar system. It includes a sun, Earth, and moon, with the Earth rotating around the sun and the moon rotating around the Earth.
 
 
